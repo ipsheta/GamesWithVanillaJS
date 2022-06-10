@@ -1,0 +1,2 @@
+1. Change speed of snake(movement per second) = snake.js -> SNAKE_SPEED
+2. Change snake expansion rate = food.js -> EXPANSION_RATE
